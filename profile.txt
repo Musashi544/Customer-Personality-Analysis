@@ -1,0 +1,41 @@
+Average Income = 49173.310963
+Average Expenses = 509.179816
+Average TotalNumPurchases = 9.495902
+Average NumDealsPurchases = 2.29
+Average NumCatalogPurchases = 2.294057
+
+Cluster 0 (Red)
+    - Number of Customers = 543
+    - Lowest Income -> Average Income = 28693.639
+    - Lowest Expenses -> Average Expenses =  85.28
+    - Lowest Total Number of Purchases -> Average TotalNumPurchases =  5.118
+    - Graduated, PhD or UnderGraduate
+    - Uses below Average Number Of Deals -> Average NumDealsPurchases =  2.041
+    - Least Usage Of catalogs During Purchase -> Average NumCatalogPurchases =  0.46
+
+Cluster 1 (Green)
+    - Number of Customers = 528
+    - Highest Income -> Average Income =  74331.768
+    - Highest Expense -> Average Expenses =  1288.034
+    - Highest Total Number Of Purchases -> Average TotalNumPurchases =  14.138
+    - Graduated or PhD
+    - Uses the Least Number Of Deals -> Average NumDealsPurchases =  1.368
+    - Highest Usage Of Catalogs During Purchases -> Average NumCatalogPurchases =  5.714
+
+Cluster 2 (Purple)
+    - Number of Customers = 468
+    - Below Average Income -> Average Income =  42335.635
+    - Low Expenses -> Average Expenses =  111.976
+    - Low Total Number Of Purchases -> Average TotalNumPurchases =  5.641
+    - Graduated or PhD
+    - Uses Below Average Number Of Deals -> Average NumDealsPurchases =  1.825
+    - Very Less Usage Of Catalogs During Purchases -> Average NumCatalogPurchases =  0.718
+
+Cluster 3 (Yellow)
+    - Number of Customers = 413
+    - Above Average Income -> Average Income =  56616.591
+    - High Expenses -> Average Expenses =  687.972
+    - High Total Number Purchases -> Average TotalNumPurchases =  13.784
+    - Graduated or PhD
+    - Uses the Highest Number Of Deals -> Average NumDealsPurchases =  3.703
+    - Above Average Usage Of Catalogs During Purchases  -> Average NumCatalogPurchases =  2.902
